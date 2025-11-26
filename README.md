@@ -2,7 +2,7 @@
 
 Realizar un proyecto enfocado en mostrar como se trabaja y se implementa el ciclo de vida DevOps
 
-## Estructura del repositorio
+## Estructura del repositoriochore
 - `/src` - código fuente
 - `/docs` - documentación
 - `/tests` - pruebas automatizadas
